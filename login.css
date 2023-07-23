@@ -23,6 +23,7 @@
     /* justify-content: space-around; */
     align-items: center;
     justify-content: center;
+      min-width:350px;
   }
   
   .div1 {
